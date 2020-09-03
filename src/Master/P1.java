@@ -9,6 +9,7 @@ public class P1 {
 	public void test()
 	{
 		Reporter.log("Tested Successfully", true);
+		Reporter.log("Testes", true);
 	}
 	
 
