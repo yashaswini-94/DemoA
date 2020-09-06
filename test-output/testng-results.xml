@@ -5,12 +5,12 @@
       <![CDATA[Tested Successfully]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="168" started-at="2020-09-03T20:51:49 IST" finished-at="2020-09-03T20:51:49 IST">
+  <suite name="Default suite" duration-ms="72" started-at="2020-09-03T21:04:32 IST" finished-at="2020-09-03T21:04:33 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="168" started-at="2020-09-03T20:51:49 IST" finished-at="2020-09-03T20:51:49 IST">
+    <test name="Default test" duration-ms="72" started-at="2020-09-03T21:04:32 IST" finished-at="2020-09-03T21:04:33 IST">
       <class name="Master.P1">
-        <test-method status="PASS" signature="test()[pri:0, instance:Master.P1@5f9d02cb]" name="test" duration-ms="56" started-at="2020-09-03T20:51:49 IST" finished-at="2020-09-03T20:51:49 IST">
+        <test-method status="PASS" signature="test()[pri:0, instance:Master.P1@5f9d02cb]" name="test" duration-ms="13" started-at="2020-09-03T21:04:33 IST" finished-at="2020-09-03T21:04:33 IST">
           <reporter-output>
             <line>
               <![CDATA[Tested Successfully]]>
